@@ -1,0 +1,29 @@
+# Ignorar archivos de compilación de Java
+*.class
+
+# Ignorar archivos temporales de los editores
+.idea/
+.vscode/
+*.swp
+
+# Ignorar archivos de salida del compilador (si se usan)
+bin/
+
+# Ignorar archivos de configuración de herramientas de construcción
+*.log
+
+# Ignorar archivos comprimidos y paquetes
+*.zip
+*.tar.gz
+*.tar.bz2
+
+# Ignorar archivos específicos de sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Ignorar directorios de dependencias
+target/
+build/
+
+# ignora doc
+/doc
